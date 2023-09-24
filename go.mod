@@ -10,7 +10,7 @@ require (
 
 require (
 	github.com/alexeyco/simpletable v1.0.0
-	github.com/creack/pty v1.1.17
+	github.com/creack/pty v1.1.18
 	github.com/manifoldco/promptui v0.9.0
 	github.com/spf13/cobra v1.4.0
 	github.com/spf13/viper v1.10.1
