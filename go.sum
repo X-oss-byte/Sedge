@@ -1,5 +1,7 @@
 github.com/NethermindEth/posmoni v0.0.0-20220603012828-9d6e0e2ac277 h1:o10WrS6xotS1X5TlMjfUUZ4GmllkaqMokx3QD5Jrv64=
 github.com/NethermindEth/posmoni v0.0.0-20220603012828-9d6e0e2ac277/go.mod h1:NgjsN32KJrCz+zZNG2DV2+jLZzQDF/yEVX+1vdZZNZs=
+github.com/NethermindEth/posmoni v0.0.0-20221029014502-f0f0ab85c597 h1:88QdhK2kvDuqCz3tN5DoXiFUGa2UqBdne0mjbg1l/mg=
+github.com/NethermindEth/posmoni v0.0.0-20221029014502-f0f0ab85c597/go.mod h1:dqNrWME7DOoZdNgKUM7P988XJ5BcEb9UgkJi7nhJXII=
 github.com/alexeyco/simpletable v1.0.0 h1:ZQ+LvJ4bmoeHb+dclF64d0LX+7QAi7awsfCrptZrpHk=
 github.com/alexeyco/simpletable v1.0.0/go.mod h1:VJWVTtGUnW7EKbMRH8cE13SigKGx/1fO2SeeOiGeBkk=
 github.com/antonfisher/nested-logrus-formatter v1.3.1 h1:NFJIr+pzwv5QLHTPyKz9UMEoHck02Q9L0FP13b/xSbQ=
