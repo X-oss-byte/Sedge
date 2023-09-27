@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/NethermindEth/posmoni v0.0.0-20220603012828-9d6e0e2ac277
 	github.com/antonfisher/nested-logrus-formatter v1.3.1
-	github.com/sirupsen/logrus v1.8.1
+	github.com/sirupsen/logrus v1.9.3
 )
 
 require (
